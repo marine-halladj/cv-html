@@ -1,0 +1,42 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv-marine-halladj</title>
+</head>
+<body>
+    <head>
+        <h1>Cv Marine Halladj</h1><br/>
+    </head>
+    <main>
+        <img src="marine.jpg"alt= height="150" width="150"/>
+        <p><mark>Info Perso</mark></p>
+        <p> Numero : 07.78.02.75.12</p>
+        <p>10 boulevard bonnes grâces _ 13003 Marseille</p>
+        <p>Mail : <a href="mailto:marine.halladj@laplateforme.io">marine.halladj@laplateforme.io</a></p>
+
+        <h2>A propos</h2> 
+        <p>Je suis une jeune femme agée de 25 ans en reconversion professionnelles dans le domaine du numerique.<br/>
+        Pour ce faire, je suis actuellement une formation global d'une durée d'un an à <a href="https://laplateforme.io/" title="Visiter le site de la plateforme !">La Plateforme</a>, qui me permet d'acquerir les connaissances de base et de pouvoir choisir dans quelle spécialité
+        j'effectuerai mon apprentissage au terme de cette année, celui-ci durera 2 ans.
+        </p><br/>
+
+        <h2>Formation</h2>
+        <ul>
+            <li><strong>CAP Signaletique Enseigne et Décors</strong> CFBT (Centre de la Bourse du Travail) _ Marseille</li>
+            <li><strong>BEP Prothesiste Dentaire</strong> Lycéen Pro Léonard de Vinci _ Marseille</li>
+        </ul>
+
+        <h2>Experiences Professionnelle</h2>
+        <ul>
+            <li>Agent de service hospitalier</li>
+            <li>Vendeuse en boulangerie</li>
+            <li>Agent de conditionnement</li>
+        </ul>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
